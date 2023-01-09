@@ -1,3 +1,2 @@
 # Email-checker
-Simple Email-checker using regex \n
-This is the change
+- Simple Email-checker using regex
